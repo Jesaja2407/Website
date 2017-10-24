@@ -5,7 +5,16 @@ h1 {
 .title {
   color:green;
 }
+.uppercase {
+  text-transform: uppercase;
+}
+#article-title {
+  font-family: cursive;
+  text-transform: capitalize;
+}  
+.uppercase {
+  text-transform: uppercase;
+}
 p {
  font-family: Algerian;
 }  
-  
